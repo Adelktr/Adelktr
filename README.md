@@ -24,6 +24,5 @@
 
 <br>
 
-
-![vue](assets/car.gif)
+[//]: ![vue](assets/car.gif)
 
